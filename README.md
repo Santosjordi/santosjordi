@@ -11,8 +11,6 @@ I’ve worked across different roles and projects, building diverse toolboxes al
 - **Backend Development**: Python (FastAPI, SQLAlchemy, PyArrow), Go (gorm, graphql)
 - **Other Tools**: Git, Poetry, Docker, K8S  
 
-I love digging into complex systems, optimizing processes, and connecting different technologies to make things run smoothly.  
-
 ## 📜 Background & Skills  
 🎓 **Production Engineering** (Mechanical Focus) – UDESC  
 🎓 **Software Engineering** – UFPR  
