@@ -1,8 +1,8 @@
-# Hello! 👋 I'm Jordi Santos
+# Hi! I'm Jordi Santos
 
 Welcome to my GitHub! I’m a **Systems Analyst and Software Engineer** with a background in **Production Engineering and Data Science**. Over the years, I’ve tackled a wide range of challenges, adapting to different tech stacks and learning the right tools for the job — whether it’s **data analysis**, **system integration**, or **building backend services**.
 
-## 🛠️ My Toolbox  
+## 🛠️ Toolbox  
 I’ve worked across different roles and projects, building diverse toolboxes along the way:  
 
 - **Data Analysis & Automation**: Excel, Python (Pandas, NumPy), Power BI  
